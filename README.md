@@ -32,32 +32,36 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? Semantic Html is the use of HTML markup to reinforce the semantics, or meaning, of the information in webpages and web applications rather than merely to define its presentation or look.
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+2. Name two big differences between ```display: block;``` and ```display: inline;```
+display: inline-block allows to set a width and height on the element display: block doesn't.
 
-3. What are the 4 areas of the box model?
+display: inline-block does not add a line-break after the element, so the element can sit next to other elements display: block starts new line.
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+3. What are the 4 areas of the box model? Margin, Border, Padding, Content
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```? Cross-axis
 
 5. Explain why git is valuable to a team of developers.
+Git is valuable because it allows a team to work, collaborate and commit changes on a project also it allows you to go back and undo and make changes.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your Team Lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push -u origin `<firstName-lastName>`.
+- [X] Create a forked copy of this project.
+- [X] Add your Team Lead as collaborator on Github.
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [X] Push commits: git push -u origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your Team Lead as a reviewer on the pull-request
-- [ ] Your Team Lead will count the project as complete by merging the branch back into master.
+- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [X] Add your Team Lead as a reviewer on the pull-request
+- [X] Your Team Lead will count the project as complete by merging the branch back into master.
  
 
 
